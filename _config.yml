@@ -1,8 +1,8 @@
 # Site settings
 title: Caroline Weis
 description: 'Welcome to the personal website of Caroline Weis. I am currently working as a machine learning engineer at gsk.ai. This website is still under construction, so bare with me until everything is set up.'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+url: 'https://cvweis.github.io'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true

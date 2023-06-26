@@ -3,10 +3,10 @@
   <channel>
     <title>Caroline Weis</title>
     <description>Welcome to the personal website of Caroline Weis. I am currently working as a machine learning engineer at gsk.ai. This website is still under construction, so bare with me until everything is set up.</description>
-    <link>http://localhost:4000/jekyll-uno/</link>
-    <atom:link href="http://localhost:4000/jekyll-uno/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 26 Jun 2023 21:15:02 +0200</pubDate>
-    <lastBuildDate>Mon, 26 Jun 2023 21:15:02 +0200</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 26 Jun 2023 21:19:49 +0200</pubDate>
+    <lastBuildDate>Mon, 26 Jun 2023 21:19:49 +0200</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Fri, 08 Jan 2016 16:04:23 +0100</pubDate>
-        <link>http://localhost:4000/jekyll-uno/2016/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-uno/2016/welcome-to-jekyll/</guid>
+        <link>http://localhost:4000/2016/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/welcome-to-jekyll/</guid>
         
         <category>jekyll</category>
         
