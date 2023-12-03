@@ -1,5 +1,5 @@
 ---
-title:  "Publication list including bibtex and github references."
+title:  "Publication list (incl. bibtex and github refs)"
 date:   2023-01-01 15:04:23
 categories: [papers]
 tags: [papers]
@@ -12,10 +12,10 @@ tags: [papers]
 
 #### 2020
 
-[Topological and kernel-based microbial phenotype prediction from MALDI-TOF mass spectra](ISMB2020_MALDI-TOF_Preprint.pdf)  
+[Topological and kernel-based microbial phenotype prediction from MALDI-TOF mass spectra](https://doi.org/10.1093/bioinformatics/btaa429)  
 **Caroline Weis†**, Max Horn†, Bastian Rieck†, Aline Cuénod, Adrian Egli, and Karsten Borgwardt. Accepted for presentation at ISMB 2020; to appear also in OUP Bioinformatics. [BibTex](https://github.com/cvweis/cvweis.github.io/blob/main/assets/Weis20b.bib). [github](https://github.com/BorgwardtLab/maldi_pike).
 
-[Comorbidities, clinical signs and symptoms, laboratory findings, imaging features, treatment strategies, and outcomes in adult and pediatric patients with COVID-19: A systematic review and meta-analysis](2020.05.20.20103804v1.full.pdf)  
+[Comorbidities, clinical signs and symptoms, laboratory findings, imaging features, treatment strategies, and outcomes in adult and pediatric patients with COVID-19: A systematic review and meta-analysis](https://www.sciencedirect.com/science/article/pii/S1477893920303215?via%3Dihub)  
 Catherine R. Jutzeler†, Lucie Bourguignon†, **Caroline V. Weis**, Bobo Tong, Cyrus Wong, Bastian Rieck, Hans Pargger, Sarah Tschudin-Sutter, Adrian Egli, Karsten Borgwardt‡ and Matthias Walter‡. medRxiv, May 2020.
 
 [Machine learning for microbial identification and antimicrobial susceptibility testing on MALDI-TOF mass spectra: a systematic review](https://www.sciencedirect.com/science/article/pii/S1198743X20301580)  
