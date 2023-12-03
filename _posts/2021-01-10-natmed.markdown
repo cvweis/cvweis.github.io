@@ -1,0 +1,12 @@
+---
+title:  "Paper out in Nature Medicine!"
+date:   2021-01-10 15:04:23
+categories: [papers]
+tags: [papers]
+---
+Our paper on "Direct antimicrobial resistance prediction from clinical MALDI-TOF mass spectra using machine learning" got published in Nature Medicine today.
+
+
+[Direct Antimicrobial Resistance Prediction from clinical MALDI-TOF mass spectra using Machine Learning](https://doi.org/10.1038/s41591-021-01619-9)  
+**Caroline Weis**, Aline Cuénod, Bastian Rieck, Olivier Dubuis, Susanne Graf, Claudia Lang, Michael Oberle, Maximilian Brackmann, Kirstine K. Soegaard, Michael Osthoff, Karsten Borgwardt†, Adrian Egli†. Nature Medicine, January 2022. [BibTex](https://github.com/cvweis/cvweis.github.io/blob/main/assets/Weis20c.bib). [github](https://github.com/BorgwardtLab/maldi_amr).
+
