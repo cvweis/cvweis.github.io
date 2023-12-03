@@ -1,7 +1,0 @@
----
-title:  "Welcome to the extra pages!"
-date:   2016-01-08 15:04:23
-categories: [papers]
-tags: [conferences, papers]
----
-This is a test post - more content will follow soon!
