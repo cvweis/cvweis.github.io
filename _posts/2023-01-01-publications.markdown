@@ -1,6 +1,6 @@
 ---
 title:  "Publication list including bibtex and github references."
-date:   20214-01-01 15:04:23
+date:   2023-01-01 15:04:23
 categories: [papers]
 tags: [papers]
 ---
