@@ -1,6 +1,6 @@
 # Site settings
 title: Caroline Weis
-description: 'Welcome to my personal website. I am currently working as a machine learning engineer at gsk.ai. In 2021, I completed my PhD in Machine Learning for Computational Biology and Healthcare at ETH Zurich. This website is still under construction, but you will find some more information about my work in the blog section.'
+description: 'Welcome to my personal website. I am a senior machine learning engineer and team lead at gsk.ai. In 2021, I completed my PhD in Machine Learning for Computational Biology and Healthcare at ETH Zurich. This website is still under construction, but you will find some more information about my work in the blog section.'
 url: 'https://cvweis.github.io'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
