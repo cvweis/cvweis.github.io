@@ -1,0 +1,39 @@
+---
+title:  "Machine Learning for Health at NeurIPS 2023"
+date:   2023-12-22 15:04:23
+categories: [conference]
+tags: [conference]
+---
+
+This my personal resource collection of how topics relevant to ML4H were covered at NeurIPS 2024. This list is not meant to be exhaustive, but reflect the works that left the most impact on me while attending the conference.
+
+Generally I've observed a strong focus on sequence models and ML4H talks related to fairness this year. This was also reflected in the session and panel talk topics at the NeurIPS-adjacent ML4H conference (https://ml4h.cc/2023/).
+
+## Clinical AI / EHR / Fairness in ML4H
+
+Chen et al: Clustering Interval-Censored Time-Series for Disease Phenotyping ([SubLign](https://arxiv.org/pdf/2102.07005.pdf))
+Improved alignment for censored EHR data, considering subgroup structures
+
+Xu et al: [TransEHR](https://proceedings.mlr.press/v225/xu23a/xu23a.pdf): Self-Supervised Transformer for Clinical Time Series Data
+Transformers on MIMIC-III time series data
+
+Ruiz et al: [High dimensional, tabular deep learning with an auxiliary knowledge graph](https://openreview.net/pdf?id=GGylthmehy)
+Potential to improve outcome prediction on small biological datasets. 
+
+## Drug discovery and Protein design
+Strong focus on sequence learning and diffusion models.
+ 
+Powers et al: [fragment-based ligand generation guided by geometric deep learning on protein-ligand structure](https://openreview.net/pdf?id=192L9cr-8HU)
+
+I was quite impressed with Ron Dror's talk in the Generative AI and Biology Workshop. He illustrated nicely what the objectives are in generative drug design, as well as presenting their FRAME method which gives some powerful results using a fragment-based approach to ligand generation.
+ 
+[Protein generation with evolutionary diffusion: sequence is all you need](https://www.biorxiv.org/content/10.1101/2023.09.11.556673v1)
+
+[This Poster](https://github.com/microsoft/evodiff) by Microsoft argues that the design should focus on sequences alone, while current models generate protein structures, which limits the scope of their training data and could only cover a small and biased subset within the protein design space.
+
+## Medical foundation models
+There was more talk about it than actual contributions, so I've cheated and added some non-NeurIPS links.
+
+NeurIPS coincided with Google's launch of [MedLM](https://cloud.google.com/blog/topics/healthcare-life-sciences/introducing-medlm-for-the-healthcare-industry), a family of foundation models fine-tuned for healthcare industry use cases
+ 
+[Symposium at Standford](https://clinicalfoundationmodels.github.io/) on Clinical Foundation Models in Spring 2024 
